@@ -1,5 +1,5 @@
 print("Ahoj!!!")
-
+print(777)
 
 print("Druhý řádeky")
 

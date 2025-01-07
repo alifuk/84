@@ -1,7 +1,7 @@
 print("Ahoj!!!")
 
 
-print("Druhý řádek")
+print("Druhý řádeky")
 
 a = 7
 
